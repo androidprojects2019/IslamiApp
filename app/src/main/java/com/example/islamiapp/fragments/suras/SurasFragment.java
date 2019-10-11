@@ -58,9 +58,9 @@ public class SurasFragment extends Fragment {
         recyclerView.setLayoutManager(layoutManager);
         recyclerView.setAdapter(adapter);
 
-        SnapHelper helper=new PagerSnapHelper();
-        helper.attachToRecyclerView(recyclerView);
-
+//        SnapHelper helper=new PagerSnapHelper();
+//        helper.attachToRecyclerView(recyclerView);
+//
 
 
         return view;

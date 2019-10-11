@@ -33,7 +33,8 @@ public class TasbehFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        view =inflater.inflate(R.layout.fragment_tasbeh, container, false);
+           view = inflater.inflate(R.layout.fragment_tasbeh,container,false);
+
         count = view.findViewById(R.id.single);
         totalCount = view.findViewById(R.id.total);
         tasbe7_spinner = view.findViewById(R.id.tasbe7_spinner);
@@ -78,8 +79,9 @@ public class TasbehFragment extends Fragment {
                     totalCount.setText(totalCounter + "");
             }
         });
-        return view;
 
+
+        return view;
     }
 
 
