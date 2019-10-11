@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IslamiApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_sura_details">SuraDetailsActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_quran">Quran</string>
+    <string name="title_tasbeh">Tasbeh</string>
+    <string name="title_radio">Radio</string>
+
+    <string-array name="tasbe7">
+        <item>الحمدلله</item>
+        <item>الله اكبر</item>
+        <item>سبحان الله</item>
+
+    </string-array>
+</resources>
