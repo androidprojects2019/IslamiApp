@@ -6,6 +6,7 @@
     android:background="@drawable/mainbackground"
     android:clickable="true"
     android:focusable="true"
+
     >
 
     <ImageView
